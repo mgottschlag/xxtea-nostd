@@ -1,7 +1,13 @@
 [package]
 name = "xxtea-nostd"
+description = "Rust XXTEA implementation for no-std environments"
 version = "0.1.0"
+repository = "https://github.com/mgottschlag/xxtea-nostd"
 authors = ["Mathias Gottschlag <mgottschlag@gmail.com>"]
+readme = "README.md"
+license = "CC0-1.0"
+keywords = ["xxtea", "cryptography", "no-std"]
+categories = ["cryptography", "no-std"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
